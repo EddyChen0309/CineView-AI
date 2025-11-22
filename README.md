@@ -183,10 +183,9 @@ npm run dev
 ---
 
 ## 贡献者 Eddy & Hulk & 温暖机器
-## 感谢 Contra Kisa Ac.DaVinci Byron 
-## Special Thanks 实验编程 故事接龙 
-
-## 联系我们 eddyse@gmail.com
+- 感谢 Contra Kisa Ac.DaVinci Byron 
+- Special Thanks 实验编程 故事接龙 
+- 联系我们 eddyse@gmail.com
 
 ## License
 
